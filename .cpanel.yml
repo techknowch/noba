@@ -1,0 +1,4 @@
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/crunimdn/diversifydispatch.com/moodle/
+    - /bin/cp * $DEPLOYPATH
